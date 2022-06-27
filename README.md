@@ -1,2 +1,2 @@
-# image-api
-An image api for discord bots
+# image-manipulator
+A simple package to generate images for discord bots
